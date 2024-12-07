@@ -10,4 +10,4 @@ With this script you just schedule the shutdown and forget about it.
 Also, if a shutdown was scheduled by mistake or you want to keep using the PC after you scheduler the shutdown you can use the additional script that cancels the scheduled shutdown.
 
 # Configuration
-The default time to shutdown is 15min (900s). This can be changed inside the scheduler script as needed (time must be in seconds).
+The default time to shutdown is 15min (900s). This can be changed inside the scheduler script as needed (time must be in seconds). The commend should be editted accordingly (the part within double quotes).
